@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Raymond"
+	],
+	"copyright": "Copyright © 2019, Raymond",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dial_player"
+}
